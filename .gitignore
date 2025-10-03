@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.spec
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+*.txt
+
+# Config files with sensitive data
+*_settings.json
+*.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Compiled executables
+*.exe
+
+# Temporary files
+nul
